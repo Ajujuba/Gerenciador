@@ -11,7 +11,10 @@
         <h1>Novo Curso</h1>
     </div>
 
-    <!-- <a href="formulario-novo-curso.php" class="btn btn-primary mb-2">Nono Curso</a> -->
+    <!-- <a href="formulario-novo-curso.php" class="btn btn-primary mb-2">Nono Curso</a>
+    
+    ESSA PÁGINA N ESTÁ SENDO USADA POR QUE ESTAMOS USANDO O CONTROLADOR
+     -->
 
 
     <form>

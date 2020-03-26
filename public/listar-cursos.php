@@ -12,6 +12,11 @@ $cursos = $repositorioDeCursos->findAll();
     <title>Document</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
+
+<!-- <a href="formulario-novo-curso.php" class="btn btn-primary mb-2">Nono Curso</a>
+    
+    ESSA PÁGINA N ESTÁ SENDO USADA POR QUE ESTAMOS USANDO O CONTROLADOR
+     -->
 <body>
 <div class="container">
     <div class="jumbotron">
